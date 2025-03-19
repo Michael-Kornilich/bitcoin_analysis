@@ -94,4 +94,3 @@ cython_debug/
 
 # Custom ignores
 .DS_Store
-BTC_USD_2012_present.csv
