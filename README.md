@@ -12,6 +12,6 @@ In order to run the notebook you must:
 ---
 ### This sript answers the Question: If you held Bitcoin for X days, what would your return be?
 
-These are calculated by averaging the X days return over the bitcoin price data from 2012 to 2024.
+These are calculated by averaging the X days return over the bitcoin price data from 2012 to present day.
 
 Enjoy!
