@@ -10,8 +10,10 @@ In order to run the notebook you must:
 - install the `requirements.txt` with `pip install -r requirements.txt`
 - have your `kaggle.json` API key (for accessing [kaggle.com](https://www.kaggle.com/)) in your home directory ([More](https://github.com/Kaggle/kagglehub#option-3-read-credentials-from-kagglejson))
 ---
-### This sript answers the Question: If you held Bitcoin for X days, what would your return be?
+### In this sript I am answering the following questions about cryptocurrency Bitcoin: 
 
-These are calculated by averaging the X days return over the bitcoin price data from 2012 to present day.
+* If you held Bitcoin for X days, what would your return be?
+* How do change in price correlate with change in trading volume?
+* ...
 
 Enjoy!
