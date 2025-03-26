@@ -14,6 +14,7 @@ In order to run the notebook you must:
 
 * If you held Bitcoin for X days, what would your return be?
 * How do change in price correlate with change in trading volume?
-* ...
+* How does halving affect price and trading volume?
+* How did trading volume per dollar change over the years?
 
 Enjoy!
